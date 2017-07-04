@@ -12,6 +12,7 @@
 		4AFC5DE71F0B651F00A839C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFC5DE51F0B651F00A839C7 /* Main.storyboard */; };
 		4AFC5DE91F0B651F00A839C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFC5DE81F0B651F00A839C7 /* Assets.xcassets */; };
 		4AFC5DEC1F0B651F00A839C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFC5DEA1F0B651F00A839C7 /* LaunchScreen.storyboard */; };
+		4AFC5DF41F0B663600A839C7 /* bensound-energy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4AFC5DF31F0B663600A839C7 /* bensound-energy.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4AFC5DE81F0B651F00A839C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AFC5DEB1F0B651F00A839C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AFC5DED1F0B651F00A839C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AFC5DF31F0B663600A839C7 /* bensound-energy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bensound-energy.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		4AFC5DE01F0B651F00A839C7 /* MyApp22 */ = {
 			isa = PBXGroup;
 			children = (
+				4AFC5DF31F0B663600A839C7 /* bensound-energy.mp3 */,
 				4AFC5DE11F0B651F00A839C7 /* AppDelegate.swift */,
 				4AFC5DE31F0B651F00A839C7 /* ViewController.swift */,
 				4AFC5DE51F0B651F00A839C7 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				4AFC5DEC1F0B651F00A839C7 /* LaunchScreen.storyboard in Resources */,
 				4AFC5DE91F0B651F00A839C7 /* Assets.xcassets in Resources */,
+				4AFC5DF41F0B663600A839C7 /* bensound-energy.mp3 in Resources */,
 				4AFC5DE71F0B651F00A839C7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
